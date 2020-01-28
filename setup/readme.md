@@ -1,0 +1,3 @@
+# URL for setup
+
+https://d3c33hcgiwev3.cloudfront.net/e1jt75tOEeidew5LPPdf-g_7c2628709b4e11e880dec10ca8455ada_setup.zip?Expires=1580342400&Signature=Qq9ue5cr0p5aKIJBG4nzNCYWdp20zRxxNHmVdmZdlZlrIA6t4Khndidz5sazJ89fDR9M2tq50u6mUXRnqhW1tXzEYezXG93xsMBGEgne0WiNVGLfpzjpzr6YQyN4CNssReAjmf9wy96gdgBzoJblU0~o0-4k3tMXyB6TF1YfF-c_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
