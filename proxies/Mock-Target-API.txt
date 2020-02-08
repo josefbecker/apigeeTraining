@@ -1,0 +1,1 @@
+mvn clean install -Ptest -Dorg={org} -Dusername={}user -Dpassword={password}
