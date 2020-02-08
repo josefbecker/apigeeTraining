@@ -1,0 +1,18 @@
+{
+  "apiResources" : [ "/**" ],
+  "approvalType" : "auto",
+  "attributes" : [ {
+    "name" : "access",
+    "value" : "public"
+  } ],
+  "createdAt" : 1580834019566,
+  "createdBy" : "apigee.edge1@gmail.com",
+  "description" : "products",
+  "displayName" : "products",
+  "environments" : [ "prod", "test" ],
+  "lastModifiedAt" : 1580912864350,
+  "lastModifiedBy" : "apigee.edge1@gmail.com",
+  "name" : "products",
+  "proxies" : [ "Products3" ],
+  "scopes" : [ ]
+}

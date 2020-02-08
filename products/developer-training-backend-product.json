@@ -1,0 +1,21 @@
+{
+  "apiResources" : [ "/" ],
+  "approvalType" : "auto",
+  "attributes" : [ {
+    "name" : "description",
+    "value" : "Developer training backend product"
+  } ],
+  "createdAt" : 1580147576238,
+  "createdBy" : "apigee.edge1@gmail.com",
+  "description" : "Developer training backend product",
+  "displayName" : "developer-training-backend-product",
+  "environments" : [ "prod", "test" ],
+  "lastModifiedAt" : 1580147576238,
+  "lastModifiedBy" : "apigee.edge1@gmail.com",
+  "name" : "developer-training-backend-product",
+  "proxies" : [ "edge-developer-training-backend" ],
+  "quota" : "10000",
+  "quotaInterval" : "1",
+  "quotaTimeUnit" : "month",
+  "scopes" : [ ]
+}

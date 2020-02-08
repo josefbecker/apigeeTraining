@@ -1,0 +1,32 @@
+{
+    "apiProducts": [],
+    "appFamily": "default",
+    "appId": "a265d762-11fb-4fd6-b5ed-d8d38901b8d6",
+    "attributes": [],
+    "callbackUrl": "",
+    "createdAt": 1580147578737,
+    "createdBy": "apigee.edge1@gmail.com",
+    "credentials": [
+      {
+        "apiProducts": [
+          {
+            "apiproduct": "developer-training-backend-product",
+            "status": "approved"
+          }
+        ],
+        "attributes": [],
+        "consumerKey": "8GBGvH9wDfCT9xDFU8toDrrlsgV9zxmi",
+        "consumerSecret": "sHATSYBuX2hFY0WR",
+        "expiresAt": -1,
+        "issuedAt": 1580147578827,
+        "scopes": [],
+        "status": "approved"
+      }
+    ],
+    "developerId": "bc3d1b72-ec5a-456b-8e66-09bd49cc1b8a",
+    "lastModifiedAt": 1580147578737,
+    "lastModifiedBy": "apigee.edge1@gmail.com",
+    "name": "developer-training-backend-app",
+    "scopes": [],
+    "status": "approved"
+  }
