@@ -5,4 +5,4 @@
 	- apiproxy dir containing the unpacked proxy bundle
 # 3. run the following command to deploy proxy
 
-	mvn clean install -Ptest -Dorg={org} -Dusername={}user -Dpassword={password}
+	mvn clean install -Ptest -Dorg={org} -Dusername={user} -Dpassword={password}
